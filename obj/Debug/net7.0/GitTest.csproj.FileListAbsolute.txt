@@ -1,0 +1,15 @@
+D:\PDP\2modul\GitTest\bin\Debug\net7.0\GitTest.exe
+D:\PDP\2modul\GitTest\bin\Debug\net7.0\GitTest.deps.json
+D:\PDP\2modul\GitTest\bin\Debug\net7.0\GitTest.runtimeconfig.json
+D:\PDP\2modul\GitTest\bin\Debug\net7.0\GitTest.dll
+D:\PDP\2modul\GitTest\bin\Debug\net7.0\GitTest.pdb
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.csproj.AssemblyReference.cache
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.AssemblyInfoInputs.cache
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.AssemblyInfo.cs
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.csproj.CoreCompileInputs.cache
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.dll
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\refint\GitTest.dll
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.pdb
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\GitTest.genruntimeconfig.cache
+D:\PDP\2modul\GitTest\obj\Debug\net7.0\ref\GitTest.dll
